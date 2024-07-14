@@ -1,5 +1,19 @@
 # [Transformer](https://github.com/tunz/transformer-pytorch/tree/e7266679f0b32fd99135ea617213f986ceede056)
 
+Creating a full Transformer model from scratch involves a complex implementation process that typically requires a deep understanding of neural network architecture and attention mechanisms. Here's a simplified outline of what's involved:
+
+    Self-Attention Mechanism: Implementing multi-head self-attention to capture relationships between tokens in a sequence.
+
+    Positional Encoding: Adding positional information to token embeddings to maintain sequence order.
+
+    Feed-Forward Networks: Constructing feed-forward neural networks for each position in the sequence.
+
+    Encoder and Decoder Stacks: Integrating multiple layers of encoders and decoders with residual connections and layer normalization.
+
+    Training Pipeline: Setting up training loops with backpropagation and optimization (e.g., using Adam optimizer) to minimize loss during training.
+
+For practical implementation, using frameworks like PyTorch or TensorFlow can simplify the process by leveraging pre-built components and optimizing performance.
+
 ![new_ModalNet-21](https://github.com/user-attachments/assets/433b7b1d-3183-415b-9a26-95297d97a79f)
 
 
