@@ -1,5 +1,7 @@
 # [Transformer](https://github.com/tunz/transformer-pytorch/tree/e7266679f0b32fd99135ea617213f986ceede056)
 
+![1725267103745](https://github.com/user-attachments/assets/4d49150e-9e2e-4c96-a6ff-e98e77cef73f)
+
 Creating a full Transformer model from scratch involves a complex implementation process that typically requires a deep understanding of neural network architecture and attention mechanisms. Here's a simplified outline of what's involved:
 
     Self-Attention Mechanism: Implementing multi-head self-attention to capture relationships between tokens in a sequence.
