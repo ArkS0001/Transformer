@@ -2,6 +2,9 @@
 
 ![1725267103745](https://github.com/user-attachments/assets/4d49150e-9e2e-4c96-a6ff-e98e77cef73f)
 
+![1727190091519](https://github.com/user-attachments/assets/27261fc5-7c56-4b6a-bfeb-6f82852628a0)
+
+
 Creating a full Transformer model from scratch involves a complex implementation process that typically requires a deep understanding of neural network architecture and attention mechanisms. Here's a simplified outline of what's involved:
 
     Self-Attention Mechanism: Implementing multi-head self-attention to capture relationships between tokens in a sequence.
