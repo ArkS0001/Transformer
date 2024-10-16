@@ -4,6 +4,10 @@
 
 ![1727190091519](https://github.com/user-attachments/assets/27261fc5-7c56-4b6a-bfeb-6f82852628a0)
 
+![1729093666152](https://github.com/user-attachments/assets/23599715-2ad7-46ed-a2ec-1ce9e2079562)
+
+
+
 
 Creating a full Transformer model from scratch involves a complex implementation process that typically requires a deep understanding of neural network architecture and attention mechanisms. Here's a simplified outline of what's involved:
 
