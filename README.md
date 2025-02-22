@@ -1,5 +1,9 @@
 # [Transformer](https://github.com/tunz/transformer-pytorch/tree/e7266679f0b32fd99135ea617213f986ceede056)
 
+
+![1740193898528](https://github.com/user-attachments/assets/98fa68e5-9be4-4a75-b072-934778599322)
+
+
 ![1725267103745](https://github.com/user-attachments/assets/4d49150e-9e2e-4c96-a6ff-e98e77cef73f)
 
 ![1727190091519](https://github.com/user-attachments/assets/27261fc5-7c56-4b6a-bfeb-6f82852628a0)
